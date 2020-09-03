@@ -1,15 +1,15 @@
 {
-  "name": "hyperdrive-http",
-  "version": "4.4.0",
-  "description": "Handle Hyper[drive|core] HTTP Requests",
+  "name": "ddrive-http",
+  "version": "1.0.0",
+  "description": "Handle DWeb[drive|core] HTTP Requests",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
   "keywords": [
-    "hypercore",
-    "hyperdrive",
-    "dat"
+    "ddatabase",
+    "ddrive",
+    "dwebx"
   ],
   "author": "Joe Hand <joe@hand.email>",
   "license": "MIT",
@@ -22,16 +22,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joehand/hyperdrive-http.git"
+    "url": "https://github.com/joehand/ddrive-http.git"
   },
   "bugs": {
-    "url": "https://github.comm/joehand/hyperdrive-http/issues"
+    "url": "https://github.comm/joehand/ddrive-http/issues"
   },
-  "homepage": "https://github.com/joehand/hyperdrive-http",
+  "homepage": "https://github.com/joehand/ddrive-http",
   "devDependencies": {
-    "dat-link-resolve": "^2.3.0",
-    "hyperdiscovery": "^8.0.0",
-    "hyperdrive": "^9.0.0",
+    "dwebx-link-resolve": "git://github.com/DistributedWeb/dwebx-link-resolve.git#24ef99019ffb3fc8ae5b0a917323196098a8b0d2",
+    "dwebdiscovery": "git://github.com/DistributedWeb/dwebdiscovery.git#370a30863990ffb38ad62a8a82fe03593232b551",
+    "ddrive": "git://github.com/DistributedWeb/ddrive.git#0253e97b45d83aa74498acecc1fc85fb74427dc8",
     "random-access-memory": "^3.0.0",
     "standard": "^12.0.1"
   }
