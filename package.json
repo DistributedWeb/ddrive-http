@@ -1,7 +1,7 @@
 {
   "name": "ddrive-http",
   "version": "1.0.0",
-  "description": "Handle DWeb[drive|core] HTTP Requests",
+  "description": "CLI for serving dDrive over HTTP.",
   "main": "index.js",
   "scripts": {
     "test": "standard"
@@ -11,7 +11,7 @@
     "ddrive",
     "dwebx"
   ],
-  "author": "Joe Hand <joe@hand.email>",
+  "author": "Peeps Labs <peepslabs.gmail.com>",
   "license": "MIT",
   "dependencies": {
     "corsify": "^2.1.0",
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joehand/ddrive-http.git"
+    "url": "https://github.com/distributedweb/ddrive-http.git"
   },
   "bugs": {
-    "url": "https://github.comm/joehand/ddrive-http/issues"
+    "url": "https://github.com/distributedweb/ddrive-http/issues"
   },
-  "homepage": "https://github.com/joehand/ddrive-http",
+  "homepage": "https://dwebx.org",
   "devDependencies": {
     "dwebx-link-resolve": "git://github.com/DistributedWeb/dwebx-link-resolve.git#24ef99019ffb3fc8ae5b0a917323196098a8b0d2",
     "dwebdiscovery": "git://github.com/DistributedWeb/dwebdiscovery.git#370a30863990ffb38ad62a8a82fe03593232b551",
