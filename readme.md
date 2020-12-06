@@ -1,6 +1,6 @@
 # DDrive Http
 
-Serve a [ddrive](https://github.com/distributedweb/ddrive) archive over HTTP. For an example of use, see [dwebx.haus](https://github.com/juliangruber/dwebx.haus).
+Serve a [ddrive](https://github.com/distributedweb/ddrive) archive over HTTP. For an example of use, see [dwebx.org](https://github.com/juliangruber/dwebx.org).
 
 [![Travis](https://api.travis-ci.org/joehand/ddrive-http.svg)](https://travis-ci.org/joehand/ddrive-http)
 
@@ -28,7 +28,7 @@ To use ddrive-http you will need to:
 
 ## API
 
-DDrive works with many archives/feeds or a single archive.
+dDrive works with many archives/feeds or a single archive.
 
 #### Options
 
